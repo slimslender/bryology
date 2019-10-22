@@ -81,7 +81,7 @@
     "nyc": "^13.1.0",
     "sinon": "^7.2.3",
     "sinon-mongoose": "^2.2.1",
-    "supertest": "^3.4.2"
+    "supertest": "^4.0.2"
   },
   "engines": {
     "node": ">=8.11.3",
