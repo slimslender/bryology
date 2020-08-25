@@ -1,11 +1,11 @@
-language: node_js
-node_js:
+language: nodeJs
+nodeJs:
   - "8"
   - "10"
 services: mongodb  
 cache:  
   directories:
-    - "node_modules"
+    - "nodeModules"
 sudo: false
 install:
   - npm install
